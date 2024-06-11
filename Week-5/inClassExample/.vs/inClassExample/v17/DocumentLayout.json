@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Seneca\\Semester - 02\\SFT221\\Week-5\\inClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1669E3A0-336C-4B80-9281-3EFA18FF3396}|inClassExample.vcxproj|E:\\My Seneca\\Semester - 02\\SFT221\\Week-5\\inClassExample\\inClassExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1669E3A0-336C-4B80-9281-3EFA18FF3396}|inClassExample.vcxproj|solutionrelative:inClassExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inClassExample.c",
+              "DocumentMoniker": "E:\\My Seneca\\Semester - 02\\SFT221\\Week-5\\inClassExample\\inClassExample.c",
+              "RelativeDocumentMoniker": "inClassExample.c",
+              "ToolTip": "E:\\My Seneca\\Semester - 02\\SFT221\\Week-5\\inClassExample\\inClassExample.c",
+              "RelativeToolTip": "inClassExample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T22:30:27.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

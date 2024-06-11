@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\My Seneca\Semester - 02\SFT221\Week-3\UnitTest1\UnitTest1.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+  E:\My Seneca\Semester - 02\SFT221\Week-3\UnitTest1\UnitTest1.cpp(1,1):
+  Add macro to precompiled header instead of defining here
+  E:\My Seneca\Semester - 02\SFT221\Week-3\UnitTest1\UnitTest1.cpp(2,1):
+  use of precompiled header
+  
+     Creating library E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\x64\Debug\UnitTest1.lib and object E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\x64\Debug\UnitTest1.dll

@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\UnitTest1\UnitTest1.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+  E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\UnitTest1\UnitTest1.cpp(1,1):
+  Add macro to precompiled header instead of defining here
+  E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\UnitTest1\UnitTest1.cpp(2,1):
+  use of precompiled header
+  
+E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\UnitTest1\UnitTest1.cpp(26,12): error C2143: syntax error: missing ';' before 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::IsFalse'
+  (compiling source file '/UnitTest1.cpp')
+  

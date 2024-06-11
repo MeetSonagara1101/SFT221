@@ -1,0 +1,3 @@
+﻿  WS03.c
+E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\WS03\WS03.c(114,29): warning C4013: 'isValid' undefined; assuming extern returning int
+  WS03.vcxproj -> E:\My Seneca\Semester - 02\SFT221\WorkShops\WS-03\WS03\x64\Debug\WS03.exe

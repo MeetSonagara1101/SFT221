@@ -1,0 +1,4 @@
+﻿  workshop3.c
+E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\workshop3.c(15,17): warning C4013: 'checkStr' undefined; assuming extern returning int
+E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\workshop3.c(114,29): warning C4013: 'isValid' undefined; assuming extern returning int
+  workshop3.vcxproj -> E:\My Seneca\Semester - 02\SFT221\Week-3\workshop3\x64\Debug\workshop3.exe
